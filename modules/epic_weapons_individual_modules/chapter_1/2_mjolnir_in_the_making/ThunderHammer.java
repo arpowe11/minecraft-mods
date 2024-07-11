@@ -32,7 +32,10 @@ public class ThunderHammer extends SwordItem {
 
         // Spawn the explosion and lighting
         level.explode(player, hit.getLocation().x, hit.getLocation().y, hit.getLocation().z, 5F, Explosion.BlockInteraction.BREAK);
-        Codakid.spawnEntity(level, new BlockPos(hit.getLocation()), new LightningBolt(EntityType.LIGHTNING_BOLT, level));
+
+        for (int i = 0; i < 5; i++){
+            Codakid.spawnEntity(level, new BlockPos(hit.getLocation()), new LightningBolt(EntityType.LIGHTNING_BOLT, level));
+        }
 
         // Tell Minecraft that we successfully called down thunder!
         return InteractionResultHolder.success(hammer);
