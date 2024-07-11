@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lol",
+    " i ",
+    " i "
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lava_bucket"
+    },
+    "d": {
+      "item": "minecraft:obsidian"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "epicweapons:lava_launcer"
+  }
+}
