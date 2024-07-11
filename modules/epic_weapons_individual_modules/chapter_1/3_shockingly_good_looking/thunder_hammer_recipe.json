@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ndn",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "minecraft:blaze_rob"
+    }
+  },
+  "result": {
+    "item": "epicweapons:my_hammer"
+  }
+}
