@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "msm",
+    " st ",
+    " st "
+  ],
+  "key": {
+    "m": {
+      "item": "minecraft:milk"
+    },
+    "d": {
+      "item": "minecraft:steak"
+    },
+    "st": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "epicweapons:cow_gun"
+  }
+}
