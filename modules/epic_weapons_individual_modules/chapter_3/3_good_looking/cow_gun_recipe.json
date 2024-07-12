@@ -7,10 +7,10 @@
   ],
   "key": {
     "m": {
-      "item": "minecraft:milk"
+      "item": "minecraft:milk_bucket"
     },
-    "d": {
-      "item": "minecraft:steak"
+    "s": {
+      "item": "minecraft:beef"
     },
     "st": {
       "item": "minecraft:stick"
