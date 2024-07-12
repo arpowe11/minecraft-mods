@@ -3,7 +3,7 @@
 ### Building your mods
 1. Finish building your mod
 2. If you want to change the mod name, go to the build.gradle file and change ```archivesBaseName``` to what ever name you want your mod pack to have
-3. Locate the jar files in the build/lib directory
+3. Locate the jar files in the build/lib directory (you will need them later)
 
 <br>
 
