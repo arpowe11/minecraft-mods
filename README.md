@@ -1,4 +1,4 @@
-# Minecraft Mods
+# Minecraft Mods (Creator Camp)
 This repo is where all the files are for Minecrat Creators Camp including the fininshed mods and all of the individule java files.
 - Note that this repo does not contain all of the files needed to create or modify these mods, only the individual src java files for each CodaKid project 
 
