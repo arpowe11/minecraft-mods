@@ -1,13 +1,13 @@
-# How to install Your Mods into Minecraft
+# How to Install Your Mods into Minecraft
 
-### Building your mods
+### Building Your Mods
 1. Finish building your mod
 2. If you want to change the mod name, go to the build.gradle file and change ```archivesBaseName``` to what ever name you want your mod pack to have
 3. Locate the jar files in the build/lib directory (you will need them later)
 
 <br>
 
-### Installing the mods in Your Minecraft
+### Installing the Mods in Your Minecraft
 1. Make sure Minecraft Java edition is installed
 2. Install Minecraft Forge
     - Open any web browser
