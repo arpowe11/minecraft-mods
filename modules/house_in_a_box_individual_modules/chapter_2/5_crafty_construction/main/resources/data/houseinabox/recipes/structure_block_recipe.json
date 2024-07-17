@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "olo",
+    "ooo"
+  ],
+  "key": {
+    "o": {"item": "minecraft:obsidian"},
+    "l": {"item": "minecraft:lava_bucket"}
+  },
+  "result": {
+    "item": "houseinabox:my_structure"
+  }
+}
