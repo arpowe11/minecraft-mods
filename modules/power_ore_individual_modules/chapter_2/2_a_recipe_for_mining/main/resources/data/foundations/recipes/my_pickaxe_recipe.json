@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "iii",
+    " b ",
+    " b "
+  ],
+
+  "key": {
+    "i":{
+        "item": "powerore:my_ingot"
+    },
+    
+    "b": {
+        "item": "minecraft:blaze_rod"
+    }
+  },
+
+  "result": {
+    "item": "powerore:my_pickaxe"
+  }
+}

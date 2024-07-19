@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "powerore:my_ore"
+    },
+
+    "result": "powerore:my_ingot",
+    "experience": 0.3,
+    "cookingtime": 100
+}
