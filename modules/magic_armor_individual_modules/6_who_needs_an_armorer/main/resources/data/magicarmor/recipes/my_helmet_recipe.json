@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cgc",
+    "c c",
+    "   "
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+
+    "g": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "result": {
+    "item": "magicarmor:my_helmet"
+  }
+}
