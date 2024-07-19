@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "powerore:block/my_ore"
+    }
+  }
+}
