@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " f ",
+    "c c",
+    "c c"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+
+    "f": {
+      "item": "minecraft:rabbit_foot"
+    }
+  },
+  "result": {
+    "item": "magicarmor:my_boots"
+  }
+}
